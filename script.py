@@ -6,4 +6,4 @@ print(sys.executable)
 name = input("Please Enter Your name?")
 print("Hello! ", name)
 
-print(print("Hello! ", name)
+print("Hello! ", name)
