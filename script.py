@@ -3,5 +3,7 @@ import sys
 print(sys.version)
 print(sys.executable)
 
-name = input("Your name?")
+name = input("Please Enter Your name?")
 print("Hello! ", name)
+
+print(print("Hello! ", name)
