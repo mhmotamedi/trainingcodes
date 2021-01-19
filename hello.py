@@ -20,5 +20,3 @@ def greet(greeting, name):
     return f'{greeting} {name}'
 
 print(greet("Hi My Friend, ", "John"))
-
-
